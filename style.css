@@ -10,3 +10,8 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Text Domain: orvis
 Template: orvis-wpcom
 */
+
+/* Gives Gutenberg image blocks a lower margin */
+.wp-block-image {
+    margin-bottom: 1rem;
+}
